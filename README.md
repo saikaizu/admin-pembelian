@@ -1,5 +1,5 @@
 # 🛒 Aplikasi Admin Pembelian
-(Referensi AI dan YouTube)
+(Referensi AI dan YouTube code by Sai Pratama)
 
 Aplikasi admin sederhana untuk **mengelola produk, stok, pembelian, dan pembatalan transaksi**. Dibuat dengan:
 
